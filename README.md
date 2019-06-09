@@ -14,6 +14,7 @@ You have different options:
 
 Be creative! Find a dataset that is inspiring to you and find a way to inspire other people by using data visualization techniques!
 
+##### MY PROJECT DESCRIPTION #####
 
 For my Data Visualization I choose a dataset of 120 years of data from the Olympics. This dataset was compelling to me because I have always loved the Olympics, and I also liked that the dataset had data from different time periods. 
 
