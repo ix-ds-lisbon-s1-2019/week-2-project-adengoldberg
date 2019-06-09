@@ -13,3 +13,8 @@ You have different options:
 * You can check the data visualization bonus class to find alternative plotting libraries. Each one has its own set of features (faster/slower, interactive/static, basic/complex)
 
 Be creative! Find a dataset that is inspiring to you and find a way to inspire other people by using data visualization techniques!
+
+
+For my Data Visualization I choose a dataset of 120 years of data from the Olympics. This dataset was compelling to me because I have always loved the Olympics, and I also liked that the dataset had data from different time periods. 
+
+This allowed me to show how the Olympics have changed over time. I was also able to do some cool comparisons of the Summer vs Winter Olympics, and look at data from the most recent Summer Olympics (2016).
