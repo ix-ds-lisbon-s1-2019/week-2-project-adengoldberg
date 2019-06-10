@@ -19,3 +19,13 @@ Be creative! Find a dataset that is inspiring to you and find a way to inspire o
 For my Data Visualization I choose a dataset of 120 years of data from the Olympics. This dataset was compelling to me because I have always loved the Olympics, and I also liked that the dataset had data from different time periods. 
 
 This allowed me to show how the Olympics have changed over time. I was also able to do some cool comparisons of the Summer vs Winter Olympics, and look at data from the most recent Summer Olympics (2016).
+
+------------------------------------------------------------------------------------------------
+# Feedback: 
+------------------------------------------------------------------------------------------------
+
+| Section | Mark | 
+|---|---| 
+| Total/100% | 95% | 
+
+Not too bad dude, just needed a little more explanation/full sentences in the conclusions etc.
